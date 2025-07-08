@@ -7,7 +7,7 @@
     <summary><h2 style="display: inline-block">💫About Me</h2></summary>
   </ul>
 </div>
-👋 Hey there! I'm an experienced developer with a year of hands-on expertise. My strengths lie in JavaScript/TypeScript/ Python. React for frontend and Node.js, Express, and Django for backend development. I'm adept at managing databases, containerization, API design, and leveraging cloud services for scalable solutions. Let's collaborate and deliver top-notch products
+👋 Backend Software Engineer with 2+ years of experience building secure, scalable APIs using Python, Django, and AWS. Strong background in cloud architecture, microservices, CI/CD automation, and system optimization. Proven ability to deliver impact through clean code, high performance, and cross-functional collaboration in international teams.
 
 <div id="user-content-toc">
   <ul align="center">
