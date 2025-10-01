@@ -7,7 +7,7 @@
     <summary><h2 style="display: inline-block">💫About Me</h2></summary>
   </ul>
 </div>
-👋 Backend Software Engineer with 2+ years of experience building secure, scalable APIs using Python, Django, and AWS. Strong background in cloud architecture, microservices, CI/CD automation, and system optimization. Proven ability to deliver impact through clean code, high performance, and cross-functional collaboration in international teams.
+👋 Backend Software Engineer with 2+ years of experience building secure and scalable APIs using Python, Django, and AWS, also contributing to frontend consistency with React and TypeScript. I’ve optimized systems (25% faster APIs), automated workflows (30% less manual work), and deployed microservices using Docker and AWS Lambda. I thrive in cross-functional teams, turning complex requirements into clean, efficient code.
 
 <div id="user-content-toc">
   <ul align="center">
