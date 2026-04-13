@@ -37,8 +37,9 @@ Open to remote opportunities with international teams.
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
