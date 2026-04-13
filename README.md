@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi, I'm Alejandro Mora 👋</h1>
-<h3 align="center">Backend Engineer | Python & Django | AWS | Scalable APIs | API Security</h3>
+<h1 align="center">Alejandro Mora</h1>
+<h3 align="center">Backend Engineer · Python · Django · AWS</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alejandro-mora-developer" target="_blank">
+  <a href="https://linkedin.com/in/alejandro-mora-developer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alexmora140500@gmail.com">
@@ -13,29 +13,32 @@
 
 ---
 
-## 💫 About Me
+Backend Engineer with 2+ years of experience designing and scaling secure,
+high-performance APIs using Python and Django. I focus on building systems
+that are reliable, observable, and ready to grow.
 
-Backend Engineer with 2+ years of experience building secure, 
-scalable APIs using Python and Django.
+- Optimized API response times by **25%** through query tuning and Redis caching
+- Reduced manual workflows by **30%** through automation
+- Deployed and managed cloud infrastructure on **AWS** (EC2, Lambda, S3, RDS)
+- Containerized services with **Docker** and maintained CI/CD pipelines
+- Specialized in **JWT authentication** and API security best practices
 
-- 🚀 Optimized API response times by **25%** through query tuning and Redis caching  
-- ⚙️ Automated workflows reducing manual work by **30%**  
-- ☁️ Deployed and managed AWS infrastructure (EC2, Lambda, S3, RDS)  
-- 🐳 Containerized services with Docker and implemented CI/CD pipelines  
-- 🔐 Specialized in JWT authentication and API security best practices  
-
-Currently **open to remote opportunities** with international teams.
+Open to remote opportunities with international teams.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,mysql,redis,docker,aws,git,linux,postman&perline=11"/>
 </p>
 
 ---
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
