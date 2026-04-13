@@ -1,40 +1,22 @@
 
-<h1 align="center">Alejandro Mora</h1>
-<h3 align="center">Backend Engineer · Python · Django · AWS</h3>
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">💫About Me</h2></summary>
+  </ul>
+</div>
+👋 Backend Software Engineer with 2+ years of experience building secure and scalable APIs using Python, Django, and AWS, also contributing to frontend consistency with React and TypeScript. I’ve optimized systems (25% faster APIs), automated workflows (30% less manual work), and deployed microservices using Docker and AWS Lambda. I thrive in cross-functional teams, turning complex requirements into clean, efficient code.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">💻Tech Stack</h2></summary>
+  </ul>
+</div>
 <p align="center">
-  <a href="https://linkedin.com/in/alejandro-mora-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:alexmora140500@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,postgres,dynamodb,express,firebase,fastapi,flask,github,html,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,ts,kubernetes&perline=14" />
   </a>
 </p>
-
----
-
-Backend Engineer with 2+ years of experience designing and scaling secure,
-high-performance APIs using Python and Django. I focus on building systems
-that are reliable, observable, and ready to grow.
-
-- Optimized API response times by **25%** through query tuning and Redis caching
-- Reduced manual workflows by **30%** through automation
-- Deployed and managed cloud infrastructure on **AWS** (EC2, Lambda, S3, RDS)
-- Containerized services with **Docker** and maintained CI/CD pipelines
-- Specialized in **JWT authentication** and API security best practices
-
-Open to remote opportunities with international teams.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,mysql,redis,docker,aws,git,linux,postman&perline=11"/>
-</p>
-
----
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">📊GitHub Stats</h2></summary>
