@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Alejandro Mora 👋</h1>
-<h3 align="center">Backend Engineer | Python · Django · AWS | Open to Remote</h3>
+<h3 align="center">Backend Engineer | Python & Django | AWS | Scalable APIs | API Security</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/alejandro-mora-developer" target="_blank">
@@ -35,16 +35,6 @@ Currently **open to remote opportunities** with international teams.
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🔗 Project Name](https://github.com/AlexM1405/...) | Brief description of what it does and the problem it solves | Django, PostgreSQL, Docker |
-| [🔗 Project Name](https://github.com/AlexM1405/...) | Brief description | Python, AWS Lambda, Redis |
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
