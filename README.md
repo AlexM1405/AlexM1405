@@ -35,11 +35,12 @@ Open to remote opportunities with international teams.
 
 ---
 
-## GitHub Stats
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexM1405&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📊GitHub Stats</h2></summary>
+  </ul>
+</div>
+![](https://github-readme-stats.vercel.app/api?username=AlexM1405&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlexM1405&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexM1405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
